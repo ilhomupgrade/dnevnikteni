@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+shadow_work.db
+bot.log
+
+# venv
+.venv/
+venv/
+ENV/
+
+# macOS
+.DS_Store
